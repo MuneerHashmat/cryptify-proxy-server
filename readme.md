@@ -8,7 +8,7 @@ This Node.js and Express.js proxy API was created for my Cryptify cryptocurrency
 
 ### Base url
 ```
-https://cryptify.up.railway.app/
+https://cryptify.koyeb.app/
 ```
 
 ## Endpoints
