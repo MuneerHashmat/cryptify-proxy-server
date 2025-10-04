@@ -15,7 +15,7 @@ const api = axios.create({
 
 const options = {
   method: 'GET',
-  headers: {accept: 'application/json', 'x-cg-demo-api-key': 'CG-6gaS7zTgWHrFi9p3AvgNToD8'}
+  headers: {accept: 'application/json', 'x-cg-demo-api-key': API_KEY}
 };
 
 module.exports = {api, options};
